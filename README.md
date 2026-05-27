@@ -159,16 +159,3 @@ To list all existing infrastructure:
 python3 vpc_manager.py
 ```
 
----
-
-## What I Learned
-
-- **VPC fundamentals** — how private cloud networks are structured
-- **Subnets** — difference between public and private, CIDR blocks, availability zones
-- **Security Groups** — firewall rules, ingress/egress, port-based access control
-- **Internet Gateway + Route Tables** — how traffic flows in and out of a VPC
-- **Terraform workflow** — init, plan, apply, destroy
-- **Infrastructure as Code** — writing reusable, repeatable infrastructure definitions
-- **boto3 API automation** — creating, tagging, and managing AWS resources with Python
-- **LocalStack** — local cloud development without an AWS account
-  
